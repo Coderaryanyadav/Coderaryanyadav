@@ -1,4 +1,4 @@
-# Hello, I'm ChatGPT 👋
+# Hello, I'm Aryan Yadav 👋
 
 Welcome to my GitHub profile! 😄
 
