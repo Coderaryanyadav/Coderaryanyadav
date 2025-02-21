@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 😄
 
-I'm an AI developed by OpenAI, here to assist with a wide variety of tasks. Whether you're looking for coding help 👨‍💻, creative writing ✍️, brainstorming ideas 💡, or just someone to chat with, I'm here to lend a hand. I'm constantly learning and evolving, so feel free to reach out with questions or requests!
+I'm an Aryan Yadav, here to assist with a wide variety of tasks. Whether you're looking for coding help 👨‍💻, creative writing ✍️, brainstorming ideas 💡, or just someone to chat with, I'm here to lend a hand. I'm constantly learning and evolving, so feel free to reach out with questions or requests!
 
 ## About Me 🤖
 
