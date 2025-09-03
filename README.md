@@ -29,22 +29,22 @@ I’m focused on mastering:
 
 ### 🛡️ **Cybersecurity & Networking**
 - **The Complete Networking Fundamentals (CCNA Start)** — *David Bombal* (100% Complete)
-- **CompTIA A+ Core 1 (220-1201)** — *Mike Meyers (Total Seminars)* (1% Complete – currently in progress)
+- **CompTIA A+ Core 1 (220-1201)** — *Mike Meyers (Total Seminars)* (1% Complete – in progress)
 
 ---
 
-## 💡 Side Projects & Practice
+## 💡 Projects & Practice
 
-I regularly practice on platforms like:
+I actively practice and learn on:
 
 - **Hack The Box**
 - **TryHackMe**
-- **LeetCode & Codeforces** (for DSA)
-- **GitHub** – open-source contributions and small tools/scripts
+- **LeetCode, Codeforces** (DSA + problem solving)
+- **GitHub** – open-source tools and experiments
 
 ---
 
-## 🔧 Tech Stack
+## ⚙️ Tech Stack
 
 - **Languages:** Python, C++, Java, JavaScript
 - **Tools:** Git, Linux, Burp Suite, Wireshark, Nmap, VS Code
@@ -53,21 +53,21 @@ I regularly practice on platforms like:
 
 ---
 
-## 📚 Goals
+## 🎯 Current Goals
 
-- ✅ Finish foundational cybersecurity + networking courses
-- 🚀 Earn CEH or other respected security certifications
-- 🛠 Build security-focused tools and projects
-- 🤝 Contribute to open-source in security & devops
+- Master real-world hacking techniques  
+- Build small tools for recon, automation, and pentesting  
+- Contribute to open-source cybersecurity projects  
+- Prep for CEH and other respected security certifications
 
 ---
 
-## 📫 Reach Out
+## 🌐 Find Me Online
 
-- 📧 Email: Aryanjyadav@gmail.com  
-- 🌐 Portfolio (coming soon...)  
-- 💼 LinkedIn:   
-- 🐦 Twitter (optional):  
+- 🌍 **Portfolio:** [hackeraryan.com](https://hackeraryan.com)
+- 💻 **Dev Site:** [aryanydv.dev](https://aryanydv.dev)
+- 🔗 **LinkedIn:** [linkedin.com/in/CoderAryanYadav](https://linkedin.com/in/CoderAryanYadav)
+- 🧩 **About Me:** [about.me/CoderAryanYadav](https://about.me/CoderAryanYadav)
 
 ---
 
