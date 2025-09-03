@@ -1,76 +1,77 @@
-# 👋 Hey, I'm Aryan Yadav
+# Aryan Yadav
 
-I'm a 17-year-old programmer and aspiring ethical hacker from Mumbai, India. I enjoy exploring how systems work — and how to make (or break) them. I spend most of my time learning programming, cybersecurity, and networking from the ground up.
-
----
-
-## 🧠 What I'm Learning & Building
-
-I’m focused on mastering:
-
-- Programming fundamentals (Python, C++, Java)
-- Web development (frontend + backend basics)
-- Ethical hacking, bug bounty, and cybersecurity
-- Networking (OSI model, TCP/IP, packet sniffing, etc.)
-- System architecture, Linux, and terminal-based tools
+I am a 17-year-old programmer and aspiring cybersecurity professional based in Mumbai, India. I have a deep interest in ethical hacking, system security, and full-stack development. My focus is on building a solid foundation in computer science, while simultaneously developing real-world skills in cybersecurity, networking, and software engineering.
 
 ---
 
-## 🏆 Certifications & Courses
+## Profile Summary
 
-### ✅ **Programming & Development**
-- **100 Days of Code: Python Bootcamp** — *Dr. Angela Yu* (97% Complete)
-- **Mastering Data Structures & Algorithms using C/C++** — *Abdul Bari* (61% Complete)
-- **Learn Java Programming: Beginner to Master** — *Abdul Bari* (100% Complete)
-- **Beginning C++ Programming: Beginner to Beyond** — *Tim Buchalka, Dr. Frank Mitropoulos* (100% Complete)
+I’m a self-driven learner who believes in mastering the fundamentals and learning by doing. I’ve dedicated hundreds of hours to practical coding, penetration testing labs, and high-quality technical courses. I’m not just studying theory — I apply what I learn through hands-on projects, challenges, and continuous self-assessment.
 
-### 🌐 **Web & Backend**
-- **The Web Developer Bootcamp 2025** — *Colt Steele* (100% Complete)
-
-### 🛡️ **Cybersecurity & Networking**
-- **The Complete Networking Fundamentals (CCNA Start)** — *David Bombal* (100% Complete)
-- **CompTIA A+ Core 1 (220-1201)** — *Mike Meyers (Total Seminars)* (1% Complete – in progress)
+Despite my age, I’ve already completed several industry-recognized courses and consistently practice on platforms like Hack The Box, TryHackMe, LeetCode, and Codeforces. I’m actively building tools, scripts, and small projects that reflect both my technical knowledge and problem-solving approach.
 
 ---
 
-## 💡 Projects & Practice
+## Certifications and Coursework
 
-I actively practice and learn on:
+### Programming & Computer Science
+- **100 Days of Code: The Complete Python Pro Bootcamp** — Dr. Angela Yu (97% Complete)
+- **Mastering Data Structures & Algorithms using C and C++** — Abdul Bari (61% Complete)
+- **Learn JAVA Programming - Beginner to Master** — Abdul Bari (100% Complete)
+- **Beginning C++ Programming – From Beginner to Beyond** — Tim Buchalka, Dr. Frank Mitropoulos (100% Complete)
 
-- **Hack The Box**
-- **TryHackMe**
-- **LeetCode, Codeforces** (DSA + problem solving)
-- **GitHub** – open-source tools and experiments
+### Web Development
+- **The Web Developer Bootcamp 2025** — Colt Steele (100% Complete)
 
----
+### Networking & Security
+- **The Complete Networking Fundamentals Course (CCNA Prep)** — David Bombal (100% Complete)
+- **CompTIA A+ Core 1 (220-1201)** — Mike Meyers (In Progress)
 
-## ⚙️ Tech Stack
-
-- **Languages:** Python, C++, Java, JavaScript
-- **Tools:** Git, Linux, Burp Suite, Wireshark, Nmap, VS Code
-- **Web:** HTML, CSS, Node.js, Express (learning phase)
-- **OS:** Kali Linux, Ubuntu, Windows
-
----
-
-## 🎯 Current Goals
-
-- Master real-world hacking techniques  
-- Build small tools for recon, automation, and pentesting  
-- Contribute to open-source cybersecurity projects  
-- Prep for CEH and other respected security certifications
+These courses have given me a well-rounded understanding of programming logic, low-level system behavior, object-oriented thinking, networking protocols, and foundational cybersecurity principles.
 
 ---
 
-## 🌐 Find Me Online
+## Technical Skills
 
-- 🌍 **Portfolio:** [hackeraryan.com](https://hackeraryan.com)
-- 💻 **Dev Site:** [aryanydv.dev](https://aryanydv.dev)
-- 🔗 **LinkedIn:** [linkedin.com/in/CoderAryanYadav](https://linkedin.com/in/CoderAryanYadav)
-- 🧩 **About Me:** [about.me/CoderAryanYadav](https://about.me/CoderAryanYadav)
+- **Languages:** Python, C++, Java, JavaScript  
+- **Web Development:** HTML, CSS, Node.js, Express.js (in progress)  
+- **Cybersecurity Tools:** Burp Suite, Wireshark, Nmap, Netcat, Metasploit  
+- **Networking:** OSI Model, TCP/IP, Packet Analysis, Subnetting  
+- **Operating Systems:** Kali Linux, Ubuntu, Windows  
+- **Version Control:** Git, GitHub  
+- **Other:** Bash scripting, VS Code, Terminal workflows
 
 ---
 
-> “Learn by doing. Break things ethically. Build with purpose.”  
-> — Me (probably)
+## Platforms and Practice
+
+- **Hack The Box** – For hands-on pentesting practice  
+- **TryHackMe** – Cybersecurity labs and walkthroughs  
+- **LeetCode / Codeforces** – Data structures, algorithms, and problem-solving  
+- **GitHub** – Hosting personal projects, automation scripts, and future open-source contributions
+
+---
+
+## Goals
+
+- Become a certified ethical hacker and security researcher  
+- Build my own suite of security tools and scripts  
+- Contribute to open-source cybersecurity or DevSecOps projects  
+- Explore offensive security, reverse engineering, and red teaming  
+- Intern or work with teams solving real-world security challenges
+
+---
+
+## Online Presence
+
+- **Portfolio Website:** [hackeraryan.com](https://hackeraryan.com)  
+- **Developer Site:** [aryanydv.dev](https://aryanydv.dev)  
+- **LinkedIn:** [linkedin.com/in/CoderAryanYadav](https://linkedin.com/in/CoderAryanYadav)  
+- **About Me:** [about.me/CoderAryanYadav](https://about.me/CoderAryanYadav)
+
+---
+
+## Closing Note
+
+I believe in building deep, technical expertise through consistent learning and real-world experience. I’m not here to follow trends — I’m here to master the craft. Whether it’s through solving complex programming problems or ethically exploiting system weaknesses, I’m committed to becoming a high-impact engineer in the security space.
 
